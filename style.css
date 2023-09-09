@@ -37,6 +37,7 @@ button{
     font-weight: bold;
     border: 0;
     cursor: pointer;
+    user-select:none;
 }
 button:hover{
     background-color: #e8124b;
