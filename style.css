@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
 
 }
 ::selection{
@@ -37,7 +37,7 @@ button{
     font-weight: bold;
     border: 0;
     cursor: pointer;
-    user-select:none;
+    user-select: none!important;
 }
 button:hover{
     background-color: #e8124b;
