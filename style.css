@@ -30,8 +30,7 @@ button{
     transform: translateX(-50%);
     height: 50px;
     width: 50%;
-    max-width: 300px;
-    min-width: 150px;
+    min-width: 300px;
     margin-bottom: 25px;
     background-color: #e34464;
     color: aliceblue;
@@ -47,7 +46,7 @@ p{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    font-size: 25px;
+    font-size: 14px;
     border: 1px solid #e8124b;
     padding: 1%;
 }
